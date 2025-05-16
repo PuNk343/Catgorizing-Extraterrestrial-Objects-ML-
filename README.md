@@ -1,1 +1,1 @@
-# Catgorizing-Extraterrestrial-Objects-ML-
+# Catgorizing-Extraterrestrial-Objects-ML
